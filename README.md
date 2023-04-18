@@ -1,9 +1,13 @@
 # TSDAE4Chinese
 基于TSDAE模型的中文通用领域文本表征模型
+
 A Chinese Universal Domain Text Representation Model Based on TSDAE
 
-训练数据来源：https://github.com/brightmart/nlp_chinese_corpus
-选择了100w条数据
+[数据来源](https://github.com/brightmart/nlp_chinese_corpus)
+（随机选择了100w条数据）
+
+[模型地址](https://pan.baidu.com/s/1etY75yqLECNaB3zhqbOE8g?pwd=gtuv)
+
 
 # 模型用法
 ---
@@ -15,7 +19,7 @@ tags:
 - transformers
 ---
 
-# {MODEL_NAME}
+# TSDAE4Cinese
 
 This is a [sentence-transformers](https://www.SBERT.net) model: It maps sentences & paragraphs to a 768 dimensional dense vector space and can be used for tasks like clustering or semantic search.
 
