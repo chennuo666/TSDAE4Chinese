@@ -1,5 +1,5 @@
 # TSDAE4Chinese
-基于TSDAE模型的中文通用领域文本表征模型
+基于TSDAE模型的中文通用领域文本表征预训练模型
 
 A Chinese Universal Domain Text Representation Model Based on TSDAE
 
